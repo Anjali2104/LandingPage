@@ -67,7 +67,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 If you have any questions or inquiries about this project, you can reach out to the project owner:
 
-- Name: Anjali Patel
+- Name: Anjali Upadhyay
 - GitHub: [@Anjali2104](https://github.com/Anjali2104)
 
 Thank you for checking out the Boat Landing Page project! We hope you find it useful and inspiring for your own landing page design.
