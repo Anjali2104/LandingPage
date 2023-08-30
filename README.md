@@ -1,12 +1,15 @@
 # Boat Landing Page
 
-![Boat Landing Page](https://user-images.githubusercontent.com/123456789/your-image.png)
+![Boat Landing Page]
 
 Welcome to the Boat Landing Page project! This repository contains the code for a simple and stylish landing page designed using HTML5 and CSS. The purpose of this landing page is to showcase a boat-related product, service, or concept in an attractive and engaging way.
 
+## Open Url
+(https://anjali2104.github.io/LandingPage/)
+
 ## Preview
 
-![Landing Page Preview](https://user-images.githubusercontent.com/123456789/preview-image.png)
+![Landing Page Preview]
 
 ## Features
 
