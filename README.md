@@ -10,7 +10,17 @@ Welcome to the Boat Landing Page project! This repository contains the code for 
 
 ## Features
 
-- **Responsive Design:** The landing page is designed to be responsive, ensuring a seamless viewing experience across various devices and screen sizes.
+![HomePage](https://github.com/Anjali2104/LandingPage/assets/86160355/7dbdcdc3-ac50-4537-b377-23f4e78947b5)
+
+![HomePage2](https://github.com/Anjali2104/LandingPage/assets/86160355/2a02be97-9980-40f1-b8a0-4a81733b86e5)
+
+![HomePage3](https://github.com/Anjali2104/LandingPage/assets/86160355/75f0aa06-2096-42bb-ad69-520489e24f27)
+
+![HomePage4](https://github.com/Anjali2104/LandingPage/assets/86160355/86ea123b-eeea-4109-9b79-427c7553446b)
+
+![HomePage5](https://github.com/Anjali2104/LandingPage/assets/86160355/82aa724d-943a-460b-beb9-09c53cfea263)
+
+![HomePage6](https://github.com/Anjali2104/LandingPage/assets/86160355/22006bf7-131b-4f37-ba58-7c3e53bf006a)
 
 - **Modern Styling:** The use of modern CSS techniques results in an aesthetically pleasing and visually appealing design.
 
